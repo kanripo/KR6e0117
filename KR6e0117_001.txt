@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:22.235022
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:18
 #+TITLE: 華嚴經入法界品十八問答
 #+PROPERTY: CBETA_ID X03n0218
 #+PROPERTY: ID KR6e0117
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 03, No. 218
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0117_X_001-0554b> 
 #+PROPERTY: JUAN 1
-No.218¶
-
- 入法界品十八問答¶
+No. 218¶
+入法界品十八問答¶
 清涼國師述¶
 
 問佛說此經要入師子嚬申三昧者何。
@@ -89,12 +88,12 @@ No.218¶
 <pb:KR6e0117_X_001-0555a>¶
 位滿無來去故。¶
 
-問諸善知識皆徧通達何要謙己知一推勝知多。¶
+問諸善知識皆徧通達何要謙巳知一推勝知多。¶
 
 答顯法界深故乃至多意略舉一二一者為後之軌¶
 令善財求法無倦善友說法無悋故二顯勝緣須善¶
 友故三破愚執自師心故四破宅慢今無偏執故五¶
-顯佛法無有盡故不應言我已窮言妙攝他屬己不¶
+顯佛法無有盡故不應言我巳窮言妙攝他屬巳不¶
 欲推人。¶
 
 問最初令見德雲法門無邊何以先明念佛三昧耶。¶
