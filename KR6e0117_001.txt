@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:22.235022
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:18
 #+TITLE: 華嚴經入法界品十八問答
 #+PROPERTY: CBETA_ID X03n0218
 #+PROPERTY: ID KR6e0117
